@@ -17,7 +17,7 @@ A dreamer
 
 ## GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=soren-blank&layout=compact&theme=buefy&border_color=7a58d5&hide_border=false"/> 
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=soren-blank&theme=buefy&border_color=7a58d5&hide_border=false"/> 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,6 +26,10 @@ A dreamer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soren-blank&layout=compact&theme=buefy&hide_border=false&border_color=7a58d5">
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src = "https://github-readme-stats.vercel.app/api/wakatime/?username=soren_blank&layout=compact&theme=buefy&hide_border=false&border_color=7a58d5&card_width=155">
 </a>
 
 
